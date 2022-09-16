@@ -1,0 +1,77 @@
+body  
+{  
+    background-image: url("picture1.jpg");
+    background-size: 100% 120%;
+    background-color: #cccc;
+    margin: 0;  
+    padding: 0;  
+    background-color:#a2c977ba;  
+    font-family: 'Bahnschrift';  
+}  
+.login{ 
+        
+        width: 250px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 10 0 0 450px;  
+        padding: 50px;  
+         background: #d6270880;
+        border-radius: 20px ;  
+          
+}  
+.header{ 
+    margin: auto;
+    border-radius: 20px;
+    text-align: center; 
+        width: 450px; 
+    color: #ffffff;  
+    padding: 5px;
+    padding-right: 10%;
+    margin-top: 10px;
+    font-family: 'Colonna MT';  
+}  
+.header img{
+    float: left;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+label{  
+    color: #5707d8;  
+    font-size: 17px; 
+     
+}  
+#Uname{  
+    width:250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: rgb(38, 11, 189);  
+  
+  
+}  
+
+span{  
+    color: rgb(252, 248, 248);  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    color: yellow;  
+}
